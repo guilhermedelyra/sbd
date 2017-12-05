@@ -1,15 +1,18 @@
+
 ENUNCIADO
 Os bancos de dados Orientado a Objetos levam vantagem em relacao aos bancos de dados objeto-relacional no quesito performance.
 TIPO DE QUESTAO
 VouF
 Falso
 Erro. A otimizacao de busca do BDOR e mais simples, assim nao perde tanto desempenho quanto o BDOO.
+
 ENUNCIADO
 Um Banco de Dados Orientado a Objetos e nada mais que a juncao entre os conceitos de OO com os objetivos basicos de um SGBD.
 TIPO DE QUESTAO
 VouF
 Verdadeiro
 Erro. Um BDOO e basicamente a juncao entre Conceitos de OO com SGBD.
+
 ENUNCIADO
 Uma grande desvantagem do Banco de Dados Orientado a Objetos e:
 TIPO DE QUESTAO
@@ -25,6 +28,7 @@ COMENTARIO ERRADO OPCAO 3
 Erro. Em um BDOO, devido a sua estrutura, a navegacao e mais natural.
 COMENTARIO ERRADO OPCAO 4
 Erro. Um BDOO, com sua estrutura, permite a criacao de estruturas de dados mais complexas.
+
 ENUNCIADO
 O objetivo principal de um banco de dados objeto-relacional e:
 TIPO DE QUESTAO
@@ -40,6 +44,7 @@ COMENTARIO ERRADO OPCAO 2
 Erro. Um BDOR busca suportar formas mais complexas de dados.
 COMENTARIO ERRADO OPCAO 4
 Erro. Por causa de seu formato, um BDOR e mais complexo e mais caro.
+
 ENUNCIADO
 Sao vantagens do Banco de Dados Objeto-Relacional:
 TIPO DE QUESTAO
@@ -50,6 +55,7 @@ Opcao 3: Agrega as vantagens da orientacao a objetos juntamente com o alto desem
 Opcao 4: Possui uma otimizacao de consulta mais simples.
 1 3 4
 Erro. Um BDOR atende aplicacoes de larga escala, usando OO, com alto desempenho e consulta simples.
+
 ENUNCIADO
 Sao caracteristicas de um Banco de Dados Objeto Relacional:
 TIPO DE QUESTAO
@@ -60,17 +66,19 @@ Opcao 3: Tem sido uma das promessas capaz de substituir o Banco de Dados Relacio
 Opcao 4: Utiliza os conceitos de supertabelas, supertipos, heranca, reutilizacao de codigo, encapsulamento, controle de identidade de objetos (OID).
 1 2 3 4
 Erro. BDOR une o Modelo Relacional com OO, traduz Objeto-Tabela, prometendo suceder o BDR e BDOO.
+
 ENUNCIADO
 Preencha a frase a seguir sobre Banco de Dados Orientado a Objetos. Lembre-se que a palavra esta no singular e use a norma culta da lingua Portuguesa.
 TIPO DE QUESTAO
 Lacunas
 Em um Banco de Dados Orientado a Objetos a unidade de armazenamento e o #
 objeto
-Erro. Em um Banco de Dados Orientado a Objetos o armazenamento e feito em objetos.
+Erro. Em um Banco de Dados Orientado a Objetos o armazenamento e feito em objetos. [objeto]
+
 ENUNCIADO
 Preencha a frase a seguir sobre Banco de Dados Orientado a Objetos. Lembre-se que a palavra esta no singular e com letras minusculas. Use a norma culta da lingua Portuguesa.
 TIPO DE QUESTAO
 Lacunas
 O Banco de Dados Orientado a Objetos e voltado para aplicacoes de pequena escala, por questoes de # 
 desempenho
-Erro. Um BDOO perde desempenho devido a seu formato. Assim e usado para projetos de menor escala.
+Erro. Um BDOO perde desempenho devido a seu formato. Assim e usado para projetos de menor escala. [desempenho]

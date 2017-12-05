@@ -1,3 +1,4 @@
+
 ENUNCIADO​
 Data Science agrega disciplinas como estatistica, matematica, programacao, conhecimento de negocios, analise preditiva, modelagem, engenharia, hacking e mineracao de​ ​dados.
 TIPO​ ​DE​ ​QUESTAO
@@ -21,6 +22,11 @@ Opcao 2​: Conhecimento​ ​de​ ​estatistica,​ ​aprendizado​ ​de�
 Opcao 3​: Habilidades​ ​de​ ​hacker,​ ​ ​pesquisa​ ​tradicional​ ​e​ ​competencia​ ​significativa;
 Opcao 4​: Matematica,​ ​engenharia​ ​de​ ​software​ ​e​ ​estatistica;
 1
+COMENTARIO ERRADO 2
+Erro. Habilidades de hacker, conhecimento de estatistica e matematica, e competencia​ ​significativa.
+COMENTARIO ERRADO 3
+Erro. Habilidades de hacker, conhecimento de estatistica e matematica, e competencia​ ​significativa.
+COMENTARIO ERRADO 4
 Erro. Habilidades de hacker, conhecimento de estatistica e matematica, e competencia​ ​significativa.
 
 ENUNCIADO​
@@ -32,6 +38,11 @@ Opcao 2: recente area de pesquisa, que surgiu devido a demanda de se extrair inf
 Opcao 3: antiga area de pesquisa, que surgiu devido a demanda de se extrair informacoes de grandes​ ​massas​ ​de​ ​dados​ ​nao​ ​estruturados​ ​que​ ​sao​ ​provenientes​ ​das​ ​mais​ ​diversas​ ​fontes;
 Opcao 4: antiga area de pesquisa, que surgiu devido a demanda de se extrair informacoes de grandes​ ​massas​ ​de​ ​dados​ ​nao​ ​estruturados​ ​que​ ​sao​ ​provenientes​ ​de​ ​uma​ ​unica​ ​fonte.
 2
+COMENTARIO ERRADO 1
+Erro. Data Science e recente, extrai informacoes de dados nao estruturados das mais​ ​diversas​ ​fontes.
+COMENTARIO ERRADO 3
+Erro. Data Science e recente, extrai informacoes de dados nao estruturados das mais​ ​diversas​ ​fontes.
+COMENTARIO ERRADO 4
 Erro. Data Science e recente, extrai informacoes de dados nao estruturados das mais​ ​diversas​ ​fontes.
 
 ENUNCIADO​
@@ -54,7 +65,7 @@ Opcao 2​: engenheiros​ ​de​ ​software;
 Opcao 3​: PhDs​ ​na​ ​area​ ​da​ ​computacao;
 Opcao 4​: nao​ ​se​ ​tem​ ​uma​ ​definicao​ ​exata​ ​do​ ​que​ ​e​ ​um​ ​cientista​ ​de​ ​dados.
 1 2 3 4
-Erro.​ ​Cientistas​ ​de​ ​dados​ ​nao​ ​tem​ ​uma​ ​definicao​ ​exata.
+Erro.​ ​Cientistas​ ​de​ ​dados​ ​nao​ ​tem​ ​uma​ ​definicao​ ​exata, portanto todas as opcoes sao validas.
 
 ENUNCIADO​
 Preencha:
@@ -62,7 +73,7 @@ TIPO​ ​DE​ ​QUESTAO
 Lacunas
 A​ ​Ciencia​ ​de​ ​Dados​ ​e​ ​uma​ ​#​ ​area​ ​de​ ​pesquisa​ ​e​ ​conhecimento.
 recente
-Erro.​ ​A​ ​Ciencia​ ​de​ ​Dados​ ​e​ ​uma​ ​recente​ ​area​ ​de​ ​pesquisa​ ​e​ ​conhecimento.
+Erro.​ ​A​ ​Ciencia​ ​de​ ​Dados​ ​e​ ​uma​ ​recente​ ​area​ ​de​ ​pesquisa​ ​e​ ​conhecimento. [recente]
 
 ENUNCIADO​
 Preencha:
@@ -70,4 +81,4 @@ TIPO​ ​DE​ ​QUESTAO
 Lacunas
 A Ciencia de Dados tem como objetivo apresentar informacoes ao usuario final de forma​ ​#.
 clara
-Erro. A Ciencia de Dados tem como objetivo apresentar informacoes ao usuario final​ ​de​ ​forma​ ​clara.
+Erro. A Ciencia de Dados tem como objetivo apresentar informacoes ao usuario final​ ​de​ ​forma​ ​clara. [clara]

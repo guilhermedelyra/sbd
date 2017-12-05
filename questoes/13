@@ -1,21 +1,22 @@
+
 ENUNCIADO
 Os bancos de dados ativos sao sistemas de banco de dados estendidos com um sistema de regras. Este sistema e capaz de reconhecer eventos, ativar as regras correspondentes e quando​ ​a​ ​condicao​ ​e​ ​verdadeira​ ​executa​ ​as​ ​acoes​ ​que​ ​correspondam.
-TIPO​ ​DE​ ​QUESTAO
-V​ou​F
+TIPO DE QUESTAO
+VouF
 Verdadeira
 A resposta esta correta, pois, os bancos de dados ativos sao sistemas e capaz de reconhecer​ ​eventos.
 
 ENUNCIADO
 Os gatilhos fazem uma descricao das regras de negocio importantes para o sistema que o banco esta localizado, assim facilitando a manutencao das regras e desenvolvimento e tambem, ​fazem com que adicionar uma nova regra seja equivalente a adicionar novos disparadores,​ ​que​ ​sao​ ​automaticamente​ ​disparados​ ​quando​ ​o​ ​evento​ ​especificado​ ​ocorre.
-TIPO​ ​DE​ ​QUESTAO
-V​ou​F
+TIPO DE QUESTAO
+VouF
 Verdadeiro
 Verdade.​ ​Isso​​ ​faz com​ ​que​ ​a​ ​consistencia​ ​do​ ​banco​ ​de​ ​dados​ ​seja​ ​garantida.
 
 ENUNCIADO
 Um​ ​banco​ ​de​ ​dados​ ​e​ ​ativo​ ​quando,​ ​marque​ ​a​ ​alternativa​ ​correta:
-TIPO​ ​DE​ ​QUESTAO
-Multipla​-​Escolha.
+TIPO DE QUESTAO
+Multipla-Escolha
 Opcao 1: Escreve no proprio programa de aplicacao a condicao que se deseja testar e avaliar​ ​continuamente​ ​a​ ​condicao.
 Opcao 2: Eventos gerados interna ou externamente ao sistema geram uma resposta do proprio​ ​banco​ ​de​ ​dados,​ ​ ​independente​ ​da​ ​solicitacao​ ​do​ ​usuario.
 Opcao 3: Nao oferece suporte para o gerenciamento automatico de condicoes definidas sobre​ ​o​ ​estado​ ​do​ ​banco​ ​de​ ​dados​ ​em​ ​resposta​ ​a​ ​estimulos​ ​externos.
@@ -30,8 +31,8 @@ Errada, pois, os eventos gerados interna ou externamente independente da solicit
 
 ENUNCIADO
 Os gatilhos fazem uma descricao das regras de negocio importantes para o sistema, assim facilitando seu desenvolvimento e tambem facilitando a manutencao dessas regras, fazem com que adicionar uma nova regra seja equivalente a adicionar novos disparadores, que sao automaticamente disparados quando o evento especificado ocorre. Isso faz que seja garantida:
-TIPO​ ​DE​ ​QUESTAO
-Multipla​-​Escolha
+TIPO DE QUESTAO
+Multipla-Escolha
 Opcao 1: Consistencia
 Opcao 2: Redundância
 Opcao 3: Seguranca
@@ -46,8 +47,8 @@ Consistencia. Poi​s a acao descrita nos gatilhos sempre sera realizada indepen
 
 ENUNCIADO
 Os bancos de dados ativos sao sistemas que podem ser usados para funcoes do proprio​ ​nucleo​ ​do​ ​banco​ ​de​ ​dados,​ ​marque​ ​a(s)​ ​alternativa(s)​ ​correta(s):
-TIPO​ ​DE​ ​QUESTAO
-Escolha​-​Multipla
+TIPO DE QUESTAO
+Escolha-Multipla
 Opcao 1: Manutencao​ ​de​ ​consistencia
 Opcao 2: Manutencao​ ​de​ ​visoes
 Opcao 3: Controle​ ​de​ ​notificacao
@@ -57,8 +58,8 @@ Controle de notificacao esta errada, pois, e uma regra do ​suporte automatico 
 
 ENUNCIADO
 Os Sistemas Gerenciadores de Banco de Dados Ativos (SGBDA) verificam em tempos pre-determinados situacoes que provocam uma acao. O que tambem pode ser chamado de ​gatilho ou regras, ​essas regras possuem principio(s) basico(s). Marque a(s) alternativa(s)​ ​correta(s):
-TIPO​ ​DE​ ​QUESTAO
-Escolha​-​Multipla
+TIPO DE QUESTAO
+Escolha-Multipla
 Opcao 1: Eventos
 Opcao 2: Acoes
 Opcao 3: Condicoes
@@ -68,16 +69,16 @@ Os​ ​tres​ ​principios​ ​basicos​ ​de​ ​gatilhos​ ​ou​
 
 ENUNCIADO
 Preencha:
-TIPO​ ​DE​ ​QUESTAO
-Lacuna
+TIPO DE QUESTAO
+Lacunas
 Os sistemas de gerenciamento de banco de dados (SGBDs) convencionais sao #, pois, so​ ​executando​ ​transacoes​ ​quando​ ​sao​ ​explicitamente​ ​requisitadas​ ​pelo​ ​usuario​ ​ou​ ​aplicacao.
 Passivos
-Os SGBDs sao passivos, pois, so executando transacoes quando sao requisitadas pelo​ ​usuario.
+Os SGBDs sao passivos, pois, so executando transacoes quando sao requisitadas pelo​ ​usuario. [Passivos]
 
 ENUNCIADO
 Preencha:
-TIPO​ ​DE​ ​QUESTAO
-Lacuna
+TIPO DE QUESTAO
+Lacunas
 Uma regra de um banco de dados ativo com a composicao dos tres principios basicos de gatilho, e denominada ECA-rule (Event-Condition-Action rule​, Regra Evento-Condicao-Acao). Existem situacoes onde um evento ou uma condicao podem nao estar presentes, ou implicitos. Se em uma regra nao existe evento determinado, esta e denominada​ ​#​.
 Regra​ ​condicao-acao
-Se em uma regra nao existe evento determinado, isso e regra condicao-acao ou regra​ ​de​ ​producao.
+Se em uma regra nao existe evento determinado, isso e regra condicao-acao ou regra​ ​de​ ​producao. [Regra condicao-acao]

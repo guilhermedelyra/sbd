@@ -1,4 +1,5 @@
-﻿ENUNCIADO
+﻿
+ENUNCIADO
 Uma medida de segurança contra ataques de SQL Injection e o uso de consultas parametrizadas ao se submeter entradas de usuarios ao banco de dados.
 TIPO DE QUESTAO
 VouF
@@ -32,15 +33,13 @@ Opcao 4: Transferir os cookies de forma criptografada.
 2 3 4
 O protocolo HTTP e inseguro, devendo-se usar HTTPS.
 
-
-
 ENUNCIADO
 Com base em seus conhecimentos sobre segurança em banco de dados, complete a seguinte frase, referente a uma comum ameaça de segurança (nao e necessario distinguir entre caracteres maiusculos e minusculos):
 TIPO DE QUESTAO
 Lacunas
 Um sistema e vulneravel a ataques de # se realiza consultas a base de dados sem tratar as entradas de dados fornecidas pelos usuarios.
 SQL Injection
-Sem tratamento dos dados de entrada, e possivel modificar uma consulta para fins maliciosos.
+Sem tratamento dos dados de entrada, e possivel modificar uma consulta para fins maliciosos. [SQL Injection]
 
 ENUNCIADO
 Em um ataque a segurança usando SQL Injection, uma vulnerabilidade pode ser explorada caso as consultas no banco de dados seja realizada de forma estatica, onde uma string de consulta e concatenada as informações submetidas pelo usuario. 
@@ -66,7 +65,7 @@ TIPO DE QUESTAO
 Lacunas
 A # e um aspecto muito importante que garante ao usuario com permissao, o acesso aos dados sempre que preciso. 
 disponibilidade
-A disponibilidade garante o acesso aos dados para o usuario. 
+A disponibilidade garante o acesso aos dados para o usuario. [disponibilidade]
 
 ENUNCIADO
 Uma forma de invasao a um sistema e por meio de Web Session Hijacking, que consiste em um sequestro de sessao, onde o invasor consegue acesso a session ID do usuario durante uma requisicao. Por meio de qual forma de armazenamento temporaria, o invasor tem acesso a sessao do usuario?

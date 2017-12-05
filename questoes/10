@@ -1,15 +1,18 @@
+
 ENUNCIADO
 Em se tratando de um SGBD autonomo, mesmo assim este precisara de intervencoes diretas antropogenicas.
 TIPO DE QUESTAO
 VouF
 Falso
 Erro.​ ​O​ ​SAGBD​ ​nao​ ​precisa​ ​de​ ​intervencao​ ​humana.
+
 ENUNCIADO
 Um​ ​SGBD​ ​autonomo​ ​nao​ ​necessita​ ​de​ ​intervencao​ ​humana​ ​mesmo​ ​quando​ ​ocorre​ ​um​ ​erro​ ​no​ ​sistema.
 TIPO DE QUESTAO
 VouF
 Verdadeiro
 Erro! Um SGBD autonomo nao necessita de intervencao humana mesmo quando ocorre um erro no sistema.
+
 ENUNCIADO
 Em​ ​um​ ​SGBD​ ​auto-gerenciado,​ ​e ​verdade​ ​que:
 TIPO DE QUESTAO
@@ -25,6 +28,7 @@ COMENTARIO​ ​ERRADO OPÇAO 2
 Erro.​ ​As​ ​vezes​ ​e ​necessaria​ ​intervencao​ ​humana.
 COMENTARIO​ ​ERRADO OPÇAO 4
 Erro​. Nao​ ​possui​ ​falhas​ ​que​ ​os​ ​outros​ ​SGDBs​ ​nao​ ​tem.
+
 ENUNCIADO
 Em​ ​um​ ​SGBD​ ​auto-gerenciado,​ ​e ​verdade​ ​que:
 TIPO DE QUESTAO
@@ -40,6 +44,7 @@ COMENTARIO​ ​ERRADO OPÇAO 3
 Erro.​ ​Existem​ ​poucos​ ​DB​ ​Autonomos.
 COMENTARIO​ ​ERRADO OPÇAO 4
 Erro​. E​ ​um​ ​sistema​ ​relacional.
+
 ENUNCIADO
 Em​ ​um​ ​SGBD​ ​autonomo​ ​e​ ​auto-gerenciado,​ ​e ​verdade​ ​que:
 TIPO DE QUESTAO
@@ -50,6 +55,7 @@ Opcao​ ​3: Os banco de dados auto-gerenciaveis sao extremamente rapidos em f
 Opcao​ ​4: Os​ ​bancos​ ​de​ ​dados​ ​autonomos​ ​diminuem​ ​a​ ​possibilidade​ ​de​ ​falha​ ​humana.
 ​2 ​​3​ ​​4
 Erro!​ ​Um​ ​SGBD​ ​autonomo​ ​e ​necessariamente​ ​auto-gerenciador, sendo a alternativa 1 a unica errada
+
 ENUNCIADO
 Em​ ​um​ ​SGBD​ ​autonomo​ ​e​ ​auto-gerenciado,​ ​e ​verdade​ ​que:
 TIPO DE QUESTAO
@@ -60,17 +66,19 @@ Opcao​ ​3: Os bancos de dados autonomos e auto-gerenciaveis foram implementa
 Opcao​ ​4: Os banco de dados autonomos e auto-gerenciaveis tem como facilitador sua implementacao sendo simples​ ​e​ ​facilmente​ ​replicada.
 1
 Erro!​ ​Um​ ​SGBD​ ​autonomo​ ​e ​rapido​ ​para​ ​fazer​ ​manutencoes; o primeiro SAGBD (peloton) foi criado em meados de 2015~2016, existindo poucos estudos publicados​ ​sobre; e um​ ​SGBD​ ​autonomo​ ​possui​ ​uma​ ​implementacao​ ​complexa
+
 ENUNCIADO
 Complete​ ​a​ ​frase​ ​abaixo​ ​de​ ​acordo​ ​com​ ​as​ ​caracteristicas​ ​de​ Bancos de Dados Autonomos
 TIPO DE QUESTAO
 Lacunas
 Um​ ​SGBD​ ​verdadeiramente​ ​"auto-gerenciado" ​e ​uma​ ​nova​ ​arquitetura​ ​projetada​ ​para​ ​operacoes​ ​#
 autonomas
-Erro. Um SGBD verdadeiramente "auto-gerenciado" e uma nova arquitetura projetada para operacoes autonomas.
+Erro. Um SGBD verdadeiramente "auto-gerenciado" e uma nova arquitetura projetada para operacoes autonomas. [autonomas]
+
 ENUNCIADO
 Complete​ ​a​ ​frase​ ​abaixo​ ​de​ ​acordo​ ​com​ ​as​ ​caracteristicas​ ​de​ Bancos de Dados Autonomos
 TIPO DE QUESTAO
 Lacunas
 #: Diz respeito ao ajuste do SGBD para melhor utilizacao dos recursos deste, provendo um uso eficaz e eficiente​ ​do​ ​SGBD.
 Tuning
-Erro. O Tuning Diz respeito ao ajuste do SGBD para melhor utilizacao dos recursos deste, provendo um uso​ ​eficaz​ ​e​ ​eficiente​ ​do​ ​SGBD.
+Erro. O Tuning Diz respeito ao ajuste do SGBD para melhor utilizacao dos recursos deste, provendo um uso​ ​eficaz​ ​e​ ​eficiente​ ​do​ ​SGBD. [Tuning]

@@ -1,3 +1,4 @@
+
 ENUNCIADO
 Banco de dados paralelos e o tipo de banco de dados que compartilha varios discos rigidos e varios processadores permitindo o acesso aos registros um melhor desempenho.
 TIPO DE QUESTAO
@@ -18,7 +19,7 @@ TIPO DE QUESTAO
 Lacunas
 Particionamento # e quando as tuplas de uma tabela sao inseridas em discos diferentes
 horizontal
-A adocao do sistema relacional e uma das explicacoes para o sucesso de sistemas de banco paralelo
+A adocao do sistema relacional e uma das explicacoes para o sucesso de sistemas de banco paralelo [horizontal]
 
 ENUNCIADO
 responda essa questao relacionada a particionamento
@@ -26,7 +27,7 @@ TIPO DE QUESTAO
 Lacunas
 Particionamento # e quando os campos de uma tabela sao inseridas em discos diferentes
 vertical
-A adocao do sistema relacional e uma das explicacoes para o sucesso de sistemas de banco paralelo
+A adocao do sistema relacional e uma das explicacoes para o sucesso de sistemas de banco paralelo [vertical]
 
 ENUNCIADO
 Em um banco de dados paralelo existe mais de uma maneira de distribuir dados entre varios discos. Marque todas as alternativas que sao tecnicas de particionamento em um banco de dados paralelo.
