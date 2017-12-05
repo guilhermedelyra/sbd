@@ -1,0 +1,117 @@
+﻿ENUNCIADO
+Uma medida de segurança contra ataques de SQL Injection e o uso de consultas parametrizadas ao se submeter entradas de usuarios ao banco de dados.
+TIPO DE QUESTAO
+VouF
+RESPOSTA CORRETA
+Verdadeiro
+COMENTARIO CERTO
+Correto!
+COMENTARIO ERRADO
+O comando de uma consulta parametrizada nao e alterado por entradas, sendo uma forma de prevencao.
+
+ENUNCIADO
+Considere um website projetado de forma a nao restringir o nivel de acesso a suas diferentes paginas. Apos algumas tentativas, um invasor descobriu que poderia acessar a pagina de administracao do site atraves do link "http://site.com/admin". Esse tipo de ataque e conhecido por:
+TIPO DE QUESTAO
+Multipla-Escolha
+OPCOES DISPONIVEIS 
+Opcao 1: SQL Injection
+Opcao 2: URL Manipulation
+Opcao 3: Cross-site scripting
+Opcao 4: Web Session hijacking
+RESPOSTA CORRETA
+2
+COMENTARIO CERTO
+Correto!
+COMENTARIO ERRADO OPCAO 1
+SQL Injection ocorre ao se modificar consultas SQL em um campo de entrada de dados.
+COMENTARIO ERRADO OPCAO 3
+Envolve injecao de codigo Javascript, nao acontecendo apenas por manipulacao de links.
+COMENTARIO ERRADO OPCAO 4
+Esse tipo de ataque necessita do id de sessao de um usuario autenticado.
+
+ENUNCIADO
+Sao mecanismos de prevencao contra ataques de Web session hijacking:
+TIPO DE QUESTAO
+Escolha-Multipla
+OPCOES DISPONIVEIS 
+Opcao 1: Utilizar apenas o protocolo HTTP.
+Opcao 2: Expirar cookies de sessao apos um determinado periodo de tempo.
+Opcao 3: Gerar IDs de sessao de forma aleatoria.
+Opcao 4: Transferir os cookies de forma criptografada.
+RESPOSTA CORRETA:
+2 3 4
+COMENTARIO CERTO 
+Parabens!
+COMENTARIO ERRADO OPCAO 1
+O protocolo HTTP e inseguro, devendo-se usar HTTPS.
+
+
+
+ENUNCIADO
+Com base em seus conhecimentos sobre segurança em banco de dados, complete a seguinte frase, referente a uma comum ameaça de segurança (nao e necessario distinguir entre caracteres maiusculos e minusculos):
+TIPO DE QUESTAO
+Lacunas
+FRASE
+Um sistema e vulneravel a ataques de # se realiza consultas a base de dados sem tratar as entradas de dados fornecidas pelos usuarios.
+REPOSTA CORRETA
+SQL Injection
+COMENTARIO CERTO
+Parabens, resposta correta!
+COMENTARIO ERRADO
+Sem tratamento dos dados de entrada, e possivel modificar uma consulta para fins maliciosos.
+
+ENUNCIADO
+Em um ataque a segurança usando SQL Injection, uma vulnerabilidade pode ser explorada caso as consultas no banco de dados seja realizada de forma estatica, onde uma string de consulta e concatenada as informações submetidas pelo usuario. 
+TIPO DE QUESTAO
+VouF
+RESPOSTA CORRETA
+Falso
+COMENTARIO CERTO
+Correto!
+COMENTARIO ERRADO
+A concatenacao de string, so pode dar certo caso as consultas sejam realizadas de forma dinâmica. 
+
+ENUNCIADO
+O dono de um sistema web deseja aumentar sua segurança e prevenir que receba ataques de URL Manipulation. Dentre as medidas que podem ser tomadas, quais das opções abaixo resolveria o problema? 
+TIPO DE QUESTAO
+Escolha-Multipla 
+OPCOES DISPONIVEIS
+Opcao 1: Utilizar o protocolo HTTPS no sistema. 
+Opcao 2: O uso da tecnica de parametrizacao de consultas.
+Opcao 3: Manter-se vago quanto as mensagens de erro apresentadas na tela. 
+Opcao 4: Utilizar o mecanismo Chroot para bloquear o acesso ao diretorios pais.
+RESPOSTA CORRETA:
+1 3 4 
+COMENTARIO CERTO
+Correto!
+COMENTARIO ERRADO
+A parametrizacao de consultas previne ataques de SQL Injection.
+
+ENUNCIADO
+Utilizando seus conhecimentos sobre segurança de banco de dados e os aspectos mais importantes para que o banco se mantenha protegido, complete a seguinte frase. 
+TIPO DE QUESTAO
+Lacunas
+FRASE
+A # e um aspecto muito importante que garante ao usuario com permissao, o acesso aos dados sempre que preciso. 
+REPOSTA CORRETA
+disponibilidade
+COMENTARIO CERTO
+Muito bem!
+COMENTARIO ERRADO
+A disponibilidade garante o acesso aos dados para o usuario. 
+
+ENUNCIADO
+Uma forma de invasao a um sistema e por meio de Web Session Hijacking, que consiste em um sequestro de sessao, onde o invasor consegue acesso a session ID do usuario durante uma requisicao. Por meio de qual forma de armazenamento temporaria, o invasor tem acesso a sessao do usuario?
+TIPO DE QUESTAO
+Multipla-Escolha
+OPCOES DISPONIVEIS
+Opcao 1: Memoria Cache
+Opcao 2: LocalStorage
+Opcao 3: Cookies 
+Opcao 4: SessionStorage
+REPOSTA CORRETA
+3
+COMENTARIO CERTO
+Correto!
+COMENTARIO ERRADO
+Os cookies guardam informacao automaticamente e sao verificados pelo servidor a cada requisicao.

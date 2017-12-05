@@ -1,0 +1,98 @@
+ENUNCIADO​​
+Em se tratando de um SGBD autonomo, mesmo assim este precisara de intervencoes diretas antropogenicas.
+TIPO​ ​DE​ ​QUESTAO
+VouF
+Falso
+COMENTARIO​ ​ERRADO​​
+Erro.​ ​O​ ​SAGBD​ ​nao​ ​precisa​ ​de​ ​intervencao​ ​humana.
+
+ENUNCIADO​​
+Um​ ​SGBD​ ​autonomo​ ​nao​ ​necessita​ ​de​ ​intervencao​ ​humana​ ​mesmo​ ​quando​ ​ocorre​ ​um​ ​erro​ ​no​ ​sistema.
+TIPO​ ​DE​ ​QUESTAO
+VouF
+Verdadeiro
+COMENTARIO​ ​ERRADO​​
+Erro! Um SGBD autonomo nao necessita de intervencao humana mesmo quando ocorre um erro no sistema.
+
+ENUNCIADO​​
+Em​ ​um​ ​SGBD​ ​auto-gerenciado,​ ​e ​verdade​ ​que:
+TIPO​ ​DE​ ​QUESTAO
+Multipla-Escolha
+OPÇÕES DISPONÍVEIS:
+Opcao​ ​1: Ele​ ​e ​capaz​ ​de​ ​tratar​ ​certos​ ​erros,​ ​mas​ ​incapaz​ ​de​ ​prever​ ​os​ ​erros​ ​que​ ​acontecerao​ ​somente​ ​no​ ​futuro.
+Opcao​ ​2: E necessario que um projetista estabeleca as propriedades do SGBD autonomo, apos isso nao precisa de nenhuma​ ​intervencao​ ​a​ ​mais
+Opcao​ ​3: E​ ​virtualmente​ ​infalivel;​ ​capaz​ ​de​ ​resolver​ ​tudo
+Opcao​ ​4: Apesar​ ​dos​ ​pontos​ ​positivos,​ ​possui​ ​algumas​ ​falhas​ ​de​ ​seguranca​ ​que​ ​outros​ ​SGBDs​ ​nao​ ​tem
+3
+COMENTARIO​ ​ERRADO OPÇAO 1
+Erro.​ ​Consegue​ ​prever​ ​erros​ ​que​ ​ocorrem​ ​no​ ​futuro.
+COMENTARIO​ ​ERRADO OPÇAO 2
+Erro.​ ​As​ ​vezes​ ​e ​necessaria​ ​intervencao​ ​humana.
+COMENTARIO​ ​ERRADO OPÇAO 4
+Erro​. Nao​ ​possui​ ​falhas​ ​que​ ​os​ ​outros​ ​SGDBs​ ​nao​ ​tem.
+
+ENUNCIADO​​
+Em​ ​um​ ​SGBD​ ​auto-gerenciado,​ ​e ​verdade​ ​que:
+TIPO​ ​DE​ ​QUESTAO
+Multipla-Escolha
+OPÇÕES DISPONÍVEIS
+Opcao​ ​1: Um​ ​SAGBD​ ​e ​simples​ ​de​ ​se​ ​implementar
+Opcao​ ​2: E​ ​ideal​ ​para​ ​trabalhar​ ​com​ ​"Big​ ​Data"
+Opcao​ ​3: Atualmente​ ​existem​ ​inumeros​ ​bancos​ ​de​ ​dados​ ​autonomos​ ​auto-gerenciaveis
+Opcao​ ​4: E​ ​um​ ​sistema​ ​nao-relacional
+2
+COMENTARIO​ ​ERRADO OPÇAO 1
+Erro.​ ​SAGDB​ ​e ​complexo​ ​de​ ​se​ ​implementar.
+COMENTARIO​ ​ERRADO OPÇAO 3
+Erro.​ ​Existem​ ​poucos​ ​DB​ ​Autonomos.
+COMENTARIO​ ​ERRADO OPÇAO 4
+Erro​. E​ ​um​ ​sistema​ ​relacional.
+
+ENUNCIADO​​
+Em​ ​um​ ​SGBD​ ​autonomo​ ​e​ ​auto-gerenciado,​ ​e ​verdade​ ​que:
+TIPO​ ​DE​ ​QUESTAO
+Escolha-Multipla
+OPÇÕES DISPONÍVEIS
+Opcao​ ​1: Os​ ​bancos​ ​de​ ​dados​ ​autonomos​ ​sao​ ​diferentes​ ​dos​ ​banco​ ​de​ ​dados​ ​auto-gerenciaveis.
+Opcao​ ​2: Os bancos de dados autonomos tem capacidade de fazer updates no proprio sistema sem necessidade de supervisao​ ​humana.
+Opcao​ ​3: Os banco de dados auto-gerenciaveis sao extremamente rapidos em fazer manutencao e mantem-se no ar melhor​ ​que​ ​um​ ​SGDB​ ​tradicional.
+Opcao​ ​4: Os​ ​bancos​ ​de​ ​dados​ ​autonomos​ ​diminuem​ ​a​ ​possibilidade​ ​de​ ​falha​ ​humana.
+​2 ​​3​ ​​4
+COMENTARIO​ ​ERRADO​ ​OPÇAO 1​​
+Erro!​ ​Um​ ​SGBD​ ​autonomo​ ​e ​necessariamente​ ​auto-gerenciador
+
+ENUNCIADO​​
+Em​ ​um​ ​SGBD​ ​autonomo​ ​e​ ​auto-gerenciado,​ ​e ​verdade​ ​que:
+TIPO​ ​DE​ ​QUESTAO
+Escolha-Multipla
+Opcao​ ​1: Bancos de dados autonomos sao feitos com o intuito de automatizar a maior parte das funcoes que um ser humano​ ​faz.
+Opcao​ ​2: Os bancos de dados autonomos nao sao rapidos em fazer manutencao sendo que manutencao dada por um ser​ ​humano​ ​e ​mais​ ​rapida.
+Opcao​ ​3: Os bancos de dados autonomos e auto-gerenciaveis foram implementado em torno de 2000 sendo uma tecnologia​ ​ja​ ​bem​ ​estudada​ ​e​ ​com​ ​implementacoes​ ​simples.
+Opcao​ ​4: Os banco de dados autonomos e auto-gerenciaveis tem como facilitador sua implementacao sendo simples​ ​e​ ​facilmente​ ​replicada.
+1
+COMENTARIO​ ​ERRADO​ ​OPÇAO 2
+Erro!​ ​Um​ ​SGBD​ ​autonomo​ ​e ​rapido​ ​para​ ​fazer​ ​manutencoes
+COMENTARIO​ ​ERRADO​ ​OPÇAO 3
+Erro! O primeiro SAGBD (peloton) foi criado em meados de 2015~2016, existindo poucos estudos publicados​ ​sobre
+COMENTARIO​ ​ERRADO​ ​OPÇAO 4
+Erro!​ ​Um​ ​SGBD​ ​autonomo​ ​possui​ ​uma​ ​implementacao​ ​complexa
+
+ENUNCIADO​​
+Complete​ ​a​ ​frase​ ​abaixo​ ​de​ ​acordo​ ​com​ ​as​ ​caracteristicas​ ​de​ Bancos de Dados Autonomos
+TIPO​ ​DE​ ​QUESTAO
+Lacuna
+FRASE
+Um​ ​SGBD​ ​verdadeiramente​ ​"auto-gerenciado" ​e ​uma​ ​nova​ ​arquitetura​ ​projetada​ ​para​ ​operacoes​ ​#
+autonomas
+COMENTARIO​ ​ERRADO​​
+Erro. Um SGBD verdadeiramente "auto-gerenciado" e uma nova arquitetura projetada para operacoes autonomas.
+
+ENUNCIADO​​
+Complete​ ​a​ ​frase​ ​abaixo​ ​de​ ​acordo​ ​com​ ​as​ ​caracteristicas​ ​de​ Bancos de Dados Autonomos
+TIPO​ ​DE​ ​QUESTAO
+Lacuna
+FRASE
+#: Diz respeito ao ajuste do SGBD para melhor utilizacao dos recursos deste, provendo um uso eficaz e eficiente​ ​do​ ​SGBD.
+Tuning
+COMENTARIO​ ​ERRADO​​
+Erro. O Tuning Diz respeito ao ajuste do SGBD para melhor utilizacao dos recursos deste, provendo um uso​ ​eficaz​ ​e​ ​eficiente​ ​do​ ​SGBD.
