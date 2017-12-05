@@ -1,0 +1,84 @@
+
+ENUNCIADO
+The Four V's of Big Data (Os Quatro V’s do Big Data) são algumas características específicas do Big Data representadas por: Variedade, Veracidade, Volume e Versatilidade.
+TIPO DE QUESTÃO
+VouF 
+Falso 
+As reais características do Big Data The Four V's of Big Data (Os Quatro V’s do Big Data) são Variedade, Veracidade, Volume e Velocidade.
+
+ENUNCIADO 
+Em relação ao Big Data, escolha a alternativa correta.
+TIPO DE QUESTÃO
+Multipla-Escolha
+Opção 1: Atualmente são gerados grandes quantidades de dados a cada dia, porém são dados avulsos que não tem muita importância de serem analisados.
+Opção 2: O Big Data consiste em volumes muito grandes de dados heterogêneos que estão sendo gerados, muitas vezes, em altas velocidades e inviáveis de serem gerenciados por softwares tradicionais.
+Opção 3: Apesar do nome Big data, este tipo de dado é de fácil manipulação.
+Opção 4: O Big Data consiste em volumes muito grandes de dados homogêneos que estão sendo gerados de forma lenta e trabalhosa.
+2
+Comentário 1
+Muito pelo contrário, As mais diversas ações diárias da sociedade tornam-se valiosas informações de mercado. Insatisfações, satisfações, desejos, necessidades entre outros.
+Comentário 3
+Um dos desafios do Big Data incluem: Análise, captura, armazenamento, transferência.
+Comentário 4
+O Big Data consiste em volumes muito grandes de dados heterogêneos que estão sendo gerados, muitas vezes, em altas velocidades.
+
+ENUNCIADO 
+Em relação aos 4 V’s do Big Data, escolha(s) a(s) alternativa(s) correta(s).
+TIPO DE QUESTÃO
+Escolha-Multipla
+Opção 1: Volume.
+Opção 2: Velocidade.
+Opção 3: Variedade.
+Opção 4: Versatilidade.
+1 2 3
+Errado, versatilidade não faz parte dos 4 V’s de Big Data.
+
+ENUNCIADO 
+Complete a lacuna da frase de acordo com os seus conhecimentos. 
+TIPO DE QUESTÃO
+Lacunas 
+Atualmente são gerados cerca de 2,5 quintilhões de bytes por dia. Esse volume incomensurável de dados criados por empresas, pessoas e aparelhos, é chamada de a Era do #.
+Big Data
+Questão referente ao estudo de Big Data, logo a resposta correta seria o próprio Big Data. [Big Data]
+
+ENUNCIADO 
+A tecnologia Big Data é na maioria das vezes gerenciada por bancos de dados relacionais, como por exemplo o MySQL.
+TIPO DE QUESTÃO
+VouF 
+Falso
+Errado, pois as estruturas de Big Data são altamente complexas para o uso de bancos relacionais.
+
+ENUNCIADO 
+Escolha a(s) alternativa(s) correta(s) a respeito de Big Data e suas vantagens.
+TIPO DE QUESTÃO
+Escolha-Multipla
+Opção 1: Aumenta a agilidade de empresas em tomadas de decisões.
+Opção 2: Aplica-se somente à área econômica de empresas.
+Opção 3: Permite que tecnologias como Machine Learning produzam modelos de predição.
+Opção 4: Possui fácil, rápido e eficiente gerenciamento de dados em bancos de dados relacionais e não relacionais.
+1 3
+Comentário 2: Errado, Big Data possui inúmeras outras aplicações!; Comentário 4: Errado, a tecnologia exige alto poder computacional e bancos de dados que suportem as estruturas dos dados não relacionais.
+
+ENUNCIADO 
+Complete a lacuna da frase de acordo com os seus conhecimentos. 
+TIPO DE QUESTÃO
+Lacunas 
+Diversos são os tipos de dados, mas podemos dividi-los em dois tipos específicos, sendo eles Estruturados e # .
+nao estruturados
+Estruturados (Possuem estruturas determinadas com categorias e definições, podem armazenar qualquer dado que precisam ter muito bem definidas onde suas informações se encontram) e Não Estruturados (Estruturas complexas que necessitam de intervenção humana para a suas preparação, como dados de mídias sociais). [não estruturados]
+
+ENUNCIADO 
+Em relação à Big Data, escolha a alternativa que NÃO corresponde a tecnologia.
+TIPO DE QUESTÃO
+Multipla-Escolha
+Opção 1: Utiliza da análise de dados para medir o comportamento do mercado.
+Opção 2: Tem-se a necessidade de softwares e hardwares altamente poderosos para processá-los. 
+Opção 3: Big Data é grande aliado de tecnologias que vem atuando fortemente no mercado atual, entre elas os modelos preditivos de Machine Learning.
+Opção 4: Big Data é um tipo de variável da linguagem SQL.
+4
+Comentário 1
+Esse é um dos seus principais objetivos da tecnologia.
+Comentário 2
+Esta é uma de suas principais desvantagens do Big Data. 
+Comentário 3
+Esta afirmação é verdadeira, pois os modelos preditivos de Machine Learning conseguem aprender com a enorme quantidade de dados que é dada a eles a fim de conseguirem predizer informações importantes para as empresas, formando uma conexão ideal.
