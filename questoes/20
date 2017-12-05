@@ -2,37 +2,25 @@ ENUNCIADO​​
 Data​​ Mining​​ e uma​​ subarea​​ interdisciplinar​​ da​​ Ciencia​​ da​​ Computacao.
 TIPO​​ DE​​ QUESTÃO
 VouF
-RESPOSTA​​ CORRETA
 Falso
-COMENTARIO​​ CERTO​​
-Exato!
-COMENTARIO​​ ERRADO​​
 Data​​ Mining​​ envolve​​ Machine​​ Learning,​​ Estatistica​​ e​ Sistemas​​ de​​ Bancos​​ de​​ Dados.
 
 ENUNCIADO​​
 Data​ Mining​ e uma​ area​ nova,​ da​ decada​ de​ 90,​ nao​ aproveitando​ nenhum​ conhecimento​ anterior sobre​ tratamento​​ de​​ informacao.
 TIPO​​ DE​​ QUESTÃO
 VouF
-RESPOSTA​​ CORRETA
 Falso
-COMENTARIO​​ CERTO​​​
-Exato!
-COMENTARIO​​ ERRADO​​
 Conhecimentos​​ acerca​​ de​​ processamento​​ de​​ dados​​ e​ estatisticas​​ sao​​ essenciais.
 
 ENUNCIADO​​
 Qual​​ das​​ alternativas​​ abaixo​​ descreve​​ melhor​​ Data​​ Mining?
 TIPO​​ DE​​ QUESTÃO
 Multipla​​-Escolha
-OPCOES DISPONIVEIS
 Opcao 1: Mineracao​​ de​​ dados​​ com​​ a​ intencao​​ de​​ extrair​​ de​​ uma​​ base​​ de​​ dados​​ algum​​ conhecimento.
 Opcao 2: Mina​​ de​​ dados,​​ uma​​ base​​ que​​ contenha​​ um​​ grande​​ amontoado​​ de​​ dados.
 Opcao 3: Mineracao​​ de​​ datas​​ com​​ a​ intencao​​ de​​ catalogar​​ manipulacoes​​ em​​ bancos​​ de​​ dados.
 Opcao 4: Mina​​ de​​ datas,​​ um​​ log​​ que​​ descreve​​ transacoes​​ em​​ banco​​ de​​ dados.
-RESPOSTA​​ CORRETA
 1
-COMENTARIO CERTO
-Exato!
 COMENTARIO ERRADO OPÇÃO 2
 "Mining"​ significa​​ o​ ato​​ de​​ minerar
 COMENTARIO ERRADO OPÇÃO 3
@@ -44,15 +32,11 @@ ENUNCIADO​​
 Qual​ dessas​ tecnicas,​ presentes​ nas​ praticas​ de​ Data​ Mining,​ costuma​ exigir​ a​ intervencao​ mais manual​ e​ cuidadosa​​ de​​ um​​ cientista​​ de​​ dados?
 TIPO​​ DE​​ QUESTÃO
 Multipla​​-Escolha
-OPCOES DISPONIVEIS
 Opcao 1: Clusterizacao
 Opcao 2: Arvores​​ de​​ Decisao
 Opcao 3: Redes​​ Neurais
 Opcao 4: Engenharia​​ de​​ Caracteristicas
-RESPOSTA​​ CORRETA
 4
-COMENTARIO CERTO
-Exato,​​ engenharia​​ de​​ caracteristicas​​ nao​​ costuma​​ ser​​ automatizado.
 COMENTARIO ERRADO OPÇÃO 1
 Clusterizacao​​ pode​​ ser​​ automatizada​​ por​​ uma​​ funcao​​ parametrizada​​ para​​ cada​​ caso.
 COMENTARIO ERRADO OPÇÃO 2
@@ -64,56 +48,36 @@ ENUNCIADO​​
 Sao​​ areas​​ validas​​ para​​ aplicacao​​ de​​ Data​​ Mining:
 TIPO​​ DE​​ QUESTÃO
 Escolha​​-​Multipla
-OPCOES DISPONIVEIS
 Opcao 1: Descobrir​​ quais​​ itens​​ sao​​ mais​​ vendidos​​ em​​ uma​​ loja​​ em​​ funcao​​ do​​ dia​​ da​​ semana
 Opcao 2: Medir​​ a​ honestidade​​ de​​ clientes​​ com​​ base​​ em​​ experiencia​​ bancaria
 Opcao 3: Seguranca​​ nacional​​ para​​ checar​​ casos​​ de​​ transacoes​​ bancarias​​ que​​ parecam​​ criminosas
 Opcao 4: Previsao​​ do​​ clima​​ em​​ um​​ bairro​​ com​​ base​​ em​​ condicoes​​ deste​​ mesmo​​ bairro
-RESPOSTA​​ CORRETA
 1 2 3
-COMENTARIO​​ CERTO​​
-Exato!
-COMENTARIO​​ ERRADO​​
 O​ clima​​ exige​​ mais​​ escopo​​ do​​ que​​ simplesmente​​ o​ bairro,​​ por​​ isso​​ nao​​ seria​​ suficiente.
 
 ENUNCIADO​​
 Utilizando-se​ apenas​ das​ tecnicas​ de​ Data​ Mining,​ sem​ fazer​ uso​ de​ nenhuma​ outra​ ciencia,​ um cientista​​ de​​ dados​​ e capaz​​ de:
 TIPO​​ DE​​ QUESTÃO
 Escolha​​-​Multipla
-OPCOES DISPONIVEIS
 Opcao 1: Criar​​ modelos​​ complexos​​ de​​ predicao​​ sobre​​ qualquer​​ coisa
 Opcao 2: Realizar​​ trabalho​​ de​​ engenharia​​ de​​ caracteristicas
 Opcao 3: Criar​​ algoritmos​​ capazes​​ de​​ tomar​​ decisoes
 Opcao 4: Nenhuma​ das​ alternativas​ anteriores.
-RESPOSTA​​ CORRETA
 4
-COMENTARIO​​ CERTO​​
-Comentario​​ certo:​​ Exatamente!
-COMENTARIO​​ ERRADO​​
 Comentario​ errado:​ Data​ Mining​ depende​ de​ outras​ ciencias,​ como​ Machine​ Learning​ para​ se tornar​ util.
 
 ENUNCIADO​​
 Complete​​ a​ frase​​ abaixo​​ a​ respeito​​ de​​ Data​​ Mining:​
 TIPO DE QUESTÃO
 Lacunas
-TEXTO
 Data​​ Mining​​ e um​​ conjunto​​ de​​ tecnicas​​ que​ consiste​​ em​​ minerar​​ #​ de​​ algum​​ escopo​​ fornecido.
-RESPOSTA​​ CORRETA
 dados
-COMENTARIO​​ CERTO​​
-Exato!
-COMENTARIO​​ ERRADO​​
 Data​​ Mining​​ significa​​ "Mineracao​​ de​​ Dados"
 
 ENUNCIADO​​
 Complete​​ a​ frase​​ abaixo:
 TIPO DE QUESTÃO
 Lacunas
-TEXTO
 Data​ Mining​ nao​ e suficiente​ para​ gerar​ algoritmos​ de​ predicao​ porque​ so se​ refere​ a​ #​ dados necessarios​​ para​​ isso.
-RESPOSTA​​ CORRETA
 minerar
-COMENTARIO​​ CERTO​​
-Parabens
-COMENTARIO​​ ERRADO​​
 Data​​ Mining​​ so​ consegue​​ os​​ dados,​​ nao​​ prediz​​ nada​​ por​​ si​​ so.

@@ -3,7 +3,6 @@ Os data warehouses sao sistemas computacionais que armazenam os dados corporativ
 TIPO DE QUESTAO 
 VouF 
 Verdadeiro
-COMENTARIO ERRADO
 Erro. Os data warehouses sao sim sistemas de dados consolidados.
 
 ENUNCIADO 
@@ -11,21 +10,17 @@ Um data mart e uma reuniao de varios data warehouses, a fim de fornecer visao ma
 TIPO DE QUESTAO 
 VouF 
 Falso
-COMENTARIO ERRADO
 Erro. E o contrario, data warehouse e uma reuniao de data marts.
 
 ENUNCIADO 
 Os depositos de dados voltados para o processo decisorio gerencial e que podem ser definidos como especies de mesmo tipo e estrutura sao:
 TIPO DE QUESTAO 
 Multipla-Escolha
-OPCOES DISPONIVEIS
 Opcao 1: business intelligence e data mining.
 Opcao 2: data warehouse e data mart.
 Opcao 3: data warehouse e data mining.
 Opcao 4: data mining e data mart.
 2
-COMENTARIO CERTO
-Parabens!
 COMENTARIO ERRADO OPCAO 1
 Erro. As tecnologias que possuem a mesma estrutura sao data warehouse e data marts.
 COMENTARIO ERRADO OPCAO 3
@@ -34,18 +29,14 @@ COMENTARIO ERRADO OPCAO 4
 Erro. As tecnologias que possuem a mesma estrutura sao data warehouse e data marts.
 
 ENUNCIADO 
-Com relacao ao tema data warehouse e data mart, analise as afirmativas a seguir. I. As quatro caracteristicas principais dos data warehouses sao: orientacao por assunto, nao volatilidade, integracao com outras fontes de dados e variacao em relacao ao tempo. II. Data mart e um pequeno data warehouse que, abrange varias areas de informacoes. III. Data warehouses auxiliam diretores e gestores no processamento de tomada de decisoes de uma empresa.
-Assinale:
+Com relacao ao tema data warehouse e data mart, analise as afirmativas a seguir. I. As quatro caracteristicas principais dos data warehouses sao: orientacao por assunto, nao volatilidade, integracao com outras fontes de dados e variacao em relacao ao tempo. II. Data mart e um pequeno data warehouse que, abrange varias areas de informacoes. III. Data warehouses auxiliam diretores e gestores no processamento de tomada de decisoes de uma empresa. Assinale:
 TIPO DE QUESTAO 
 Multipla-Escolha
-OPCOES DISPONIVEIS
 Opcao 1: se somente a afirmativa I estiver correta.
 Opcao 2: se somente a afirmativa II estiver correta.
 Opcao 3: se somente as afirmativas II e III estiverem corretas.
 Opcao 4: se somente as afirmativas I e II estiverem corretas.
 4
-COMENTARIO CERTO
-Parabens!
 COMENTARIO ERRADO OPCAO 1
 Erro. Data warehouse tambem auxilia diretores em tomadas de decisoes.
 COMENTARIO ERRADO OPCAO 2
@@ -58,48 +49,36 @@ Com relacao ao tema data warehouse e data mart, responda a seguir.
 O Data WareHouse possui quatro caracteristicas principais, sao: orientacao por assunto, integracao com outras fontes de dados, variacao em relacao ao tempo e:
 TIPO DE QUESTAO 
 Escolha-Multipla
-OPCOES DISPONIVEIS
 Opcao 1: Data marts.
 Opcao 2: Volatil.
 Opcao 3: Nao volatil.
 Opcao 4: Orientado por setas.
 3
-COMENTARIO ERRADO
 Erro. Ser nao volatil e uma caracteristica do Data WareHouse.
 
 ENUNCIADO 
 Com relacao ao tema data warehouse (DW) e data mart (DM), responda a seguir. Com o grande beneficio do uso de data warehouse, grandes empresas criaram esse banco por causa de seus beneficios, entre eles sao:
 TIPO DE QUESTAO 
 Escolha-Multipla
-OPCOES DISPONIVEIS
 Opcao 1: Aumento na seguranca de decisao.
 Opcao 2: Aumentar abrangencia das analises.
 Opcao 3: Custo beneficio baixo em relacao a outros tipos de banco.
 Opcao 4: Nao e necessario ter muitos dados para fazer a analise de decisao.
 1 2
-COMENTARIO CERTO
-Parabens!
-COMENTARIO ERRADO
 Erro. No DW ha de beneficios o aumento de seguranca de decisao e de abrangencia das analises.
 
 ENUNCIADO 
 Um data warehouse (DW) e, muitas vezes, conhecido somente como um imenso banco de dados capaz de armazenar milhoes de registros. Contudo, ele nao consiste apenas nisso, existem outras importantes particularidades que fazem do data warehouse um poderoso aliado das Organizacoes.
 TIPO DE QUESTAO
-Lacunas
-FRASE 
+Lacunas 
 Um das principais caracteristicas do data warehouse e a organizacao dos dados que e feita por meio de # dos dados.
-RESPOSTA CORRETA 
 assunto
-COMENTARIO ERRADO
 Erro. O data warehouse organiza dados por assunto.
 
 ENUNCIADO 
 Existem varias particularidades importantes que fazem do data warehouse um poderoso aliado das empresas, como organizacao dos dados, integracao e variabilidade com o tempo.
 TIPO DE QUESTAO
-Lacunas
-FRASE 
+Lacunas 
 Uma outra particularidade do Data WareHouse e ser # por possuir a caracteristica de ler e excluir somente apos a inclusao.
-RESPOSTA CORRETA 
-nao volatil
-COMENTARIO ERRADO
+nao-volatil
 Erro. O data warehouse e considerado nao volatil.

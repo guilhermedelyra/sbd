@@ -3,7 +3,6 @@ Banco de dados paralelos e o tipo de banco de dados que compartilha varios disco
 TIPO DE QUESTAO
 VouF
 Verdadeiro
-COMENTARIO ERRADO
 Erro. O enunciado e verdadeiro
 
 ENUNCIADO
@@ -11,60 +10,50 @@ Nenhum banco de dados paralelo utiliza banco de dados relacional em sua elaborac
 TIPO DE QUESTAO
 VouF
 Falso
-COMENTARIO ERRADO
 A adocao do sistema relacional e uma das explicacoes para o sucesso de sistemas de banco paralelo
 
 ENUNCIADO
 responda essa questao relacionada a particionamento
 TIPO DE QUESTAO
 Lacuna
-FRASE
 Particionamento # e quando as tuplas de uma tabela sao inseridas em discos diferentes
 horizontal
-COMENTARIO ERRADO
 A adocao do sistema relacional e uma das explicacoes para o sucesso de sistemas de banco paralelo
 
 ENUNCIADO
 responda essa questao relacionada a particionamento
 TIPO DE QUESTAO
 Lacuna
-FRASE
 Particionamento # e quando os campos de uma tabela sao inseridas em discos diferentes
 vertical
-COMENTARIO ERRADO
 A adocao do sistema relacional e uma das explicacoes para o sucesso de sistemas de banco paralelo
 
 ENUNCIADO
 Em um banco de dados paralelo existe mais de uma maneira de distribuir dados entre varios discos. Marque todas as alternativas que sao tecnicas de particionamento em um banco de dados paralelo.
 TIPO DE QUESTAO
 Escolha-Multipla
-OPCOES DISPONIVEIS
 Opcao 1: round Robin
 Opcao 2: particionamento Hash
 Opcao 3: particionamento por faixas
 Opcao 4: segmentacao
 1 2 3
-COMENTARIO ERRADO
 Segmentacao nao e uma tecnica de particionamento.
 
 ENUNCIADO
 Quais destas alternativas sao exemplos de arquiteturas de paralelismo em banco de dados
 TIPO DE QUESTAO
 Escolha-Multipla
-OPCOES DISPONIVEIS
 Opcao 1: memoria compartilhada
 Opcao 2: discos compartilhados
 Opcao 3: sem compartilhamento
 Opcao 4: hierarquico
 1 2 3 4
-COMENTARIO ERRADO
 Todas as alternativas sao arquiteturas de paralelismo em banco de dados.
 
 ENUNCIADO
 Qual destas alternativas menciona a arquitetura de paralelismo em banco de dados menos custosa(barata) de se implementar.
 TIPO DE QUESTAO
 Multipla-Escolha
-OPCOES DISPONIVEIS
 Opcao 1: memoria compartilhada
 Opcao 2: discos compartilhados
 Opcao 3: sem compartilhamento
@@ -81,7 +70,6 @@ ENUNCIADO
 Qual destas alternativas menciona a arquitetura de paralelismo em banco de dados mais custosa(cara) de se implementar.
 TIPO DE QUESTAO
 Multipla-Escolha
-OPCOES DISPONIVEIS
 Opcao 1: memoria compartilhada
 Opcao 2: discos compartilhados
 Opcao 3: sem compartilhamento

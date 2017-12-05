@@ -3,7 +3,6 @@ Os bancos de dados ativos sao sistemas de banco de dados estendidos com um siste
 TIPO​ ​DE​ ​QUESTAO
 V​ou​F
 Verdadeira
-COMENTARIO​ ​ERRADO
 A resposta esta correta, pois, os bancos de dados ativos sao sistemas e capaz de reconhecer​ ​eventos.
 
 ENUNCIADO
@@ -11,77 +10,74 @@ Os gatilhos fazem uma descricao das regras de negocio importantes para o sistema
 TIPO​ ​DE​ ​QUESTAO
 V​ou​F
 Verdadeiro
-COMENTARIO​ ​ERRADO
 Verdade.​ ​Isso​​ ​faz com​ ​que​ ​a​ ​consistencia​ ​do​ ​banco​ ​de​ ​dados​ ​seja​ ​garantida.
 
 ENUNCIADO
 Um​ ​banco​ ​de​ ​dados​ ​e​ ​ativo​ ​quando,​ ​marque​ ​a​ ​alternativa​ ​correta:
 TIPO​ ​DE​ ​QUESTAO
 Multipla​-​Escolha.
-OPCOES DISPONIVEIS
 Opcao 1: Escreve no proprio programa de aplicacao a condicao que se deseja testar e avaliar​ ​continuamente​ ​a​ ​condicao.
 Opcao 2: Eventos gerados interna ou externamente ao sistema geram uma resposta do proprio​ ​banco​ ​de​ ​dados,​ ​ ​independente​ ​da​ ​solicitacao​ ​do​ ​usuario.
 Opcao 3: Nao oferece suporte para o gerenciamento automatico de condicoes definidas sobre​ ​o​ ​estado​ ​do​ ​banco​ ​de​ ​dados​ ​em​ ​resposta​ ​a​ ​estimulos​ ​externos.
 Opcao 4: ​Sao​ ​sistemas​ ​de​ ​banco​ ​de​ ​dados​ ​estendidos​ ​com​ ​um​ ​sistema​ ​de​ ​regras.
 2
-COMENTARIO​ ​ERRADO
+COMENTARIO ERRADO OPCAO 1
+Errada, pois, os eventos gerados interna ou externamente independente da solicitacao​ ​do​ ​usuario.
+COMENTARIO ERRADO OPCAO 3
+Errada, pois, os eventos gerados interna ou externamente independente da solicitacao​ ​do​ ​usuario.
+COMENTARIO ERRADO OPCAO 4
 Errada, pois, os eventos gerados interna ou externamente independente da solicitacao​ ​do​ ​usuario.
 
 ENUNCIADO
 Os gatilhos fazem uma descricao das regras de negocio importantes para o sistema, assim facilitando seu desenvolvimento e tambem facilitando a manutencao dessas regras, fazem com que adicionar uma nova regra seja equivalente a adicionar novos disparadores, que sao automaticamente disparados quando o evento especificado ocorre. Isso faz que seja garantida:
 TIPO​ ​DE​ ​QUESTAO
 Multipla​-​Escolha
-OPCOES DISPONIVEIS
 Opcao 1: Consistencia
 Opcao 2: Redundância
 Opcao 3: Seguranca
 Opcao 4: Protecao
 ​1
-COMENTARIO​ ​ERRADO
+COMENTARIO ERRADO OPCAO 2
+Consistencia. Poi​s a acao descrita nos gatilhos sempre sera realizada independentemente.
+COMENTARIO ERRADO OPCAO 3
+Consistencia. Poi​s a acao descrita nos gatilhos sempre sera realizada independentemente.
+COMENTARIO ERRADO OPCAO 4
 Consistencia. Poi​s a acao descrita nos gatilhos sempre sera realizada independentemente.
 
 ENUNCIADO
 Os bancos de dados ativos sao sistemas que podem ser usados para funcoes do proprio​ ​nucleo​ ​do​ ​banco​ ​de​ ​dados,​ ​marque​ ​a(s)​ ​alternativa(s)​ ​correta(s):
 TIPO​ ​DE​ ​QUESTAO
 Escolha​-​Multipla
-OPCOES DISPONIVEIS
 Opcao 1: Manutencao​ ​de​ ​consistencia
 Opcao 2: Manutencao​ ​de​ ​visoes
 Opcao 3: Controle​ ​de​ ​notificacao
 Opcao 4: Gerenciamento​ ​de​ ​versoes
 1 2 4
-COMENTARIO​ ​ERRADO
 Controle de notificacao esta errada, pois, e uma regra do ​suporte automatico ao usuario.
 
 ENUNCIADO
 Os Sistemas Gerenciadores de Banco de Dados Ativos (SGBDA) verificam em tempos pre-determinados situacoes que provocam uma acao. O que tambem pode ser chamado de ​gatilho ou regras, ​essas regras possuem principio(s) basico(s). Marque a(s) alternativa(s)​ ​correta(s):
 TIPO​ ​DE​ ​QUESTAO
 Escolha​-​Multipla
-OPCOES DISPONIVEIS
 Opcao 1: Eventos
 Opcao 2: Acoes
 Opcao 3: Condicoes
 Opcao 4: Relacoes
 1 2 3
-COMENTARIO​ ​ERRADO
 Os​ ​tres​ ​principios​ ​basicos​ ​de​ ​gatilhos​ ​ou​ ​regras​ ​sao​ ​eventos,​ ​condicoes​ ​e​ ​acoes.
 
 ENUNCIADO
 Preencha:
 TIPO​ ​DE​ ​QUESTAO
 Lacuna
-TEXTO
 Os sistemas de gerenciamento de banco de dados (SGBDs) convencionais sao #, pois, so​ ​executando​ ​transacoes​ ​quando​ ​sao​ ​explicitamente​ ​requisitadas​ ​pelo​ ​usuario​ ​ou​ ​aplicacao.
 Passivos
-COMENTARIO​ ​ERRADO
 Os SGBDs sao passivos, pois, so executando transacoes quando sao requisitadas pelo​ ​usuario.
 
 ENUNCIADO
 Preencha:
 TIPO​ ​DE​ ​QUESTAO
 Lacuna
-TEXTO
 Uma regra de um banco de dados ativo com a composicao dos tres principios basicos de gatilho, e denominada ECA-rule (Event-Condition-Action rule​, Regra Evento-Condicao-Acao). Existem situacoes onde um evento ou uma condicao podem nao estar presentes, ou implicitos. Se em uma regra nao existe evento determinado, esta e denominada​ ​#​.
 Regra​ ​condicao-acao
-COMENTARIO​ ​ERRADO
 Se em uma regra nao existe evento determinado, isso e regra condicao-acao ou regra​ ​de​ ​producao.

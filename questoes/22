@@ -3,7 +3,6 @@ Data Science agrega disciplinas como estatistica, matematica, programacao, conhe
 TIPO​ ​DE​ ​QUESTAO
 VouF
 Verdadeiro
-COMENTARIO​ ​ERRADO​ ​
 Erro.​ ​Data​ ​Science​ ​incorpora​ ​essas​ ​disciplinas​ ​e​ ​ainda​ ​outras.
 
 ENUNCIADO​
@@ -11,77 +10,64 @@ Cientistas de dados podem ser estatisticos, engenheiros de software, experts em 
 TIPO​ ​DE​ ​QUESTAO
 VouF
 Verdadeiro
-COMENTARIO​ ​ERRADO​ ​
 Erro. Como Data Science e recente, nao se tem uma definicao exata do que e um cientista​ ​de​ ​dados.
 
 ENUNCIADO​
 De​ ​acordo​ ​com​ ​o​ ​diagrama​ ​de​ ​Venn,​ ​Data​ ​Science​ ​encontra-se​ ​na​ ​intersecao​ ​de:
 TIPO​ ​DE​ ​QUESTAO
 Multipla-Escolha
-OPCOES DISPONIVEIS
 Opcao 1: Habilidades de hacker, conhecimento de estatistica e matematica, e competencia significativa;
 Opcao 2​: Conhecimento​ ​de​ ​estatistica,​ ​aprendizado​ ​de​ ​maquina​ ​e​ ​matematica;
 Opcao 3​: Habilidades​ ​de​ ​hacker,​ ​ ​pesquisa​ ​tradicional​ ​e​ ​competencia​ ​significativa;
 Opcao 4​: Matematica,​ ​engenharia​ ​de​ ​software​ ​e​ ​estatistica;
 1
-COMENTARIO​ ​ERRADO​ ​
 Erro. Habilidades de hacker, conhecimento de estatistica e matematica, e competencia​ ​significativa.
 
 ENUNCIADO​
 O​ ​Data​ ​Science​ ​e​ ​uma:
 TIPO​ ​DE​ ​QUESTAO
 Multipla-Escolha
-OPCOES DISPONIVEIS
 Opcao 1: recente area de pesquisa, que surgiu devido a demanda de se extrair informacoes de grandes​ ​massas​ ​de​ ​dados​ ​estruturados​ ​que​ ​sao​ ​provenientes​ ​das​ ​mais​ ​diversas​ ​fontes;
 Opcao 2: recente area de pesquisa, que surgiu devido a demanda de se extrair informacoes de grandes​ ​massas​ ​de​ ​dados​ ​nao​ ​estruturados​ ​que​ ​sao​ ​provenientes​ ​das​ ​mais​ ​diversas​ ​fontes;
 Opcao 3: antiga area de pesquisa, que surgiu devido a demanda de se extrair informacoes de grandes​ ​massas​ ​de​ ​dados​ ​nao​ ​estruturados​ ​que​ ​sao​ ​provenientes​ ​das​ ​mais​ ​diversas​ ​fontes;
 Opcao 4: antiga area de pesquisa, que surgiu devido a demanda de se extrair informacoes de grandes​ ​massas​ ​de​ ​dados​ ​nao​ ​estruturados​ ​que​ ​sao​ ​provenientes​ ​de​ ​uma​ ​unica​ ​fonte.
 2
-COMENTARIO​ ​ERRADO​ ​
 Erro. Data Science e recente, extrai informacoes de dados nao estruturados das mais​ ​diversas​ ​fontes.
 
 ENUNCIADO​
 Data​ ​Science:
 TIPO​ ​DE​ ​QUESTAO
 Escolha-Multipla
-OPCOES DISPONIVEIS
 Opcao 1: incorpora elementos variados e se baseia em tecnicas e teorias oriundas de muitos campos​ ​basicos​ ​em​ ​engenharia​ ​e​ ​ciencias​ ​basicas;
 Opcao 2: e​ ​intimamente​ ​ligada​ ​com​ ​muitas​ ​das​ ​disciplinas​ ​tradicionais​ ​bem​ ​estabelecida;
 Opcao 3​: viabiliza​ ​uma​ ​nova​ ​area​ ​altamente​ ​interdisciplinar;
 Opcao 4: e​ ​uma​ ​antiga​ ​area​ ​de​ ​pesquisa.
 1 2 3
-COMENTARIO​ ​ERRADO​ ​
 Erro. Data Science incorpora elementos variados, viabiliza uma nova discipliva e e​ ​recente.
 
 ENUNCIADO​
 Cientistas​ ​de​ ​dados​ ​podem​ ​ser:
 TIPO​ ​DE​ ​QUESTAO
 Escolha-Multipla
-OPCOES DISPONIVEIS
 Opcao 1​: estatisticos;
 Opcao 2​: engenheiros​ ​de​ ​software;
 Opcao 3​: PhDs​ ​na​ ​area​ ​da​ ​computacao;
 Opcao 4​: nao​ ​se​ ​tem​ ​uma​ ​definicao​ ​exata​ ​do​ ​que​ ​e​ ​um​ ​cientista​ ​de​ ​dados.
 1 2 3 4
-COMENTARIO​ ​ERRADO​ ​
 Erro.​ ​Cientistas​ ​de​ ​dados​ ​nao​ ​tem​ ​uma​ ​definicao​ ​exata.
 
 ENUNCIADO​
 Preencha:
 TIPO​ ​DE​ ​QUESTAO
 Lacunas
-TEXTO
 A​ ​Ciencia​ ​de​ ​Dados​ ​e​ ​uma​ ​#​ ​area​ ​de​ ​pesquisa​ ​e​ ​conhecimento.
 recente
-COMENTARIO​ ​ERRADO​ ​
 Erro.​ ​A​ ​Ciencia​ ​de​ ​Dados​ ​e​ ​uma​ ​recente​ ​area​ ​de​ ​pesquisa​ ​e​ ​conhecimento.
 
 ENUNCIADO​
 Preencha:
 TIPO​ ​DE​ ​QUESTAO
 Lacunas
-TEXTO
 A Ciencia de Dados tem como objetivo apresentar informacoes ao usuario final de forma​ ​#.
 clara
-COMENTARIO​ ​ERRADO​ ​
 Erro. A Ciencia de Dados tem como objetivo apresentar informacoes ao usuario final​ ​de​ ​forma​ ​clara.
