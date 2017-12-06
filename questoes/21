@@ -1,0 +1,82 @@
+ENUNCIADO 
+Dentre as tecnologias de Banco de Dados estudadas na disciplina de SBD, as que mais se destacam em Business Intelligence são Data warehouse e Bancos de Dados Paralelos.
+TIPO DE QUESTÃO
+VouF
+Falso
+Erro. As tecnologias de banco de dados que mais se destacam são data warehouse e data mining.
+
+ENUNCIADO 
+Uma das maiores desvantagens do BI é a falta de agilidade, pois, devido a enorme quantidade de dados que deve gerir, a entrega de informação útil é dificultada.
+TIPO DE QUESTÃO
+VouF
+Falso
+Erro. Agilidade é uma das principais vantagens do BI.
+
+ENUNCIADO 
+O principal objetivo do Business Intelligence pode ser resumido em:
+TIPO DE QUESTÃO
+Multipla-Escolha
+Opção 1: Ajudar na tomada de decisões de uma empresa
+Opção 2: Armazenar uma grande quantidade de dados
+Opção 3: Aumentar a segurança dos dados de uma empresa
+Opção 4: Aumentar a capacidade de acesso aos dados
+1
+COMENTARIO ERRO 2
+Erro. O principal objetivo do BI é ajudar  na tomada de decisoẽs.
+COMENTARIO ERRO 3
+Erro. O principal objetivo do BI é ajudar  na tomada de decisoẽs.
+COMENTARIO ERRO 4
+Erro. O principal objetivo do BI é ajudar  na tomada de decisoẽs.
+
+ENUNCIADO 
+Qual das seguintes opções não é uma das vantagens do BI?
+TIPO DE QUESTÃO
+Multipla-Escolha
+Opção 1: Rapidez
+Opção 2: Maior conhecimento empresarial
+Opção 3: Análises preditivas
+Opção 4: Baixo custo
+4
+COMENTARIO ERRO 1
+Erro. BI geralmente  possui custo elevado.
+COMENTARIO ERRO 2
+Erro. BI geralmente  possui custo elevado.
+COMENTARIO ERRO 3
+Erro. BI geralmente  possui custo elevado.
+
+ENUNCIADO 
+Quais opções fazem parte do processo utilizado no Business Intelligence?
+TIPO DE QUESTÃO
+Escolha-Multipla
+Opção 1: Data analytics
+Opção 2: Data mining
+Opção 3: Reporting
+Opção 4:  Data binding
+1 2 3
+Erro. Data binding não é parte do processo de BI.
+
+ENUNCIADO 
+Marque a(s) alternativa(s) verdadeira(s) sobre Business Intelligence
+TIPO DE QUESTÃO
+Escolha-Multipla
+Opção 1: Devido ao seu baixo custo de implementação e manutenção, BI é altamente utilizado por empresas pequenas
+Opção 2: Proporciona tomadas de decisões mais eficazes
+Opção 3: Permite ao  empreendedor prever falhas no negócio
+Opção 4: Utiliza somente dados internos da empresa
+2 3
+Erro. BI não possui baixo custo e utiliza dados de usuários, não só da empresa.
+
+ENUNCIADO 
+O # é chave no processo de transformação do dado bruto em informação
+TIPO DE QUESTÃO
+Lacunas
+data analytics
+Data Analytics representa grande importância no processo de BI. [data analytics]
+
+ENUNCIADO 
+A principal atividade de um BI é a # de informação para a escolha da melhor decisão a se tomar.
+TIPO DE QUESTÃO
+Lacunas
+analise
+Erro. A principal atividade de um BI é a análise de informação. [analise]
+
